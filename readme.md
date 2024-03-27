@@ -1,8 +1,11 @@
 [![TG profile](https://img.shields.io/badge/contact_me-blue?logo=telegram&logoColor=yellow)](https://t.me/immelst0run)
 [![GitHub Repo](https://img.shields.io/badge/project-github-blue?style=flat&logo=github)](https://github.com/immelstorun/med_tools_seg)
 [![Python](https://img.shields.io/badge/Python-3.11-3670A0?style=for-the-flat&logo=Python&logoColor=ffdd54)](https://www.r-project.org/)
+
 МФТИ - Прикладной анализ данных в медицинской сфере
 # Surgical tools instance segmentation
+![Пример изображения](main.png)
+
 Детекция хирургических инструментов методами машинного зрения
 
 ## Оглавление
