@@ -77,7 +77,7 @@ YOLO (You Only Look Once) является одним из передовых м
 - 27 видеозаписей
 
 Исходные фото в папке `Raw` в формате .HEIC (Apple) были сконвертированы в формат .JPG и помещены в папку `converted`.
-
+[Размеченный датасет 06_04_2024](https://github.com/immelstorun/Surgical-tools-instance-segmentation/blob/main/dataset_06_04_2024.zip)
 
 ## План работы
 
