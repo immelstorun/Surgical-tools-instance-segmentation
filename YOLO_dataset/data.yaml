@@ -1,0 +1,8 @@
+names:
+- clamp
+- tweezers
+- scissors
+nc: 3
+test: validation/images
+train: train/images
+val: validation/images
